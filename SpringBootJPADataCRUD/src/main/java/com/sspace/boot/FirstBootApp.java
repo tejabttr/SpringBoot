@@ -16,5 +16,6 @@ public class FirstBootApp {
 	public static void main(String[] args) {
 		SpringApplication.run(FirstBootApp.class, args);
 		System.out.println("FirstLine..");
+		System.out.println("SecondLine..");
 	}
 }
