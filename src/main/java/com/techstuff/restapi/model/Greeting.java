@@ -14,6 +14,7 @@ public String getMessage() {
 }
 public void setMessage(String message) {
 	this.message = message;
+	System.out.println(message);
 }
 
 }
