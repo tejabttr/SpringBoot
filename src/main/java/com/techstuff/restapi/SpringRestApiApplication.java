@@ -10,5 +10,6 @@ public class SpringRestApiApplication {
 		SpringApplication.run(SpringRestApiApplication.class, args);
 		System.out.println("first");
 		System.out.println("second");
+		System.out.println("fourth");
 	}
 }
