@@ -10,6 +10,7 @@ public void setId(int id) {
 	this.id = id;
 }
 public String getMessage() {
+	System.out.println(message);
 	return message;
 }
 public void setMessage(String message) {
