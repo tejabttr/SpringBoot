@@ -11,5 +11,6 @@ public class SpringRestApiApplication {
 		System.out.println("first");
 		System.out.println("second");
 		System.out.println("fourth");
+		System.out.println("third");
 	}
 }
