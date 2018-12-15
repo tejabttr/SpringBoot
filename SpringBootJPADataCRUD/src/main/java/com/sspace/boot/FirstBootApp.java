@@ -15,6 +15,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 public class FirstBootApp {
 	public static void main(String[] args) {
 		SpringApplication.run(FirstBootApp.class, args);
-		System.out.println("SecondLine..");
 	}
 }
