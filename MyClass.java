@@ -1,6 +1,6 @@
 public class MyClass {
     public static void main(String args[]) {
-        System.out.println("Hello Welocome to Java World by teja");
+        System.out.println("Hello Welocome to Java World");
       
     }
 }
